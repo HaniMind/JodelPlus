@@ -1,14 +1,16 @@
 ## **Jodel++**
-###### Updated On 2017/8/30
+###### Updated On 2017/9/6
 
 - **Jodel++ Sideloading (No Jailbreak) "بدون جيلبريك"**
 
 
 
 ###  Download Link "رابط التحميل" 👇
- - Download IPA file from  [Here ❤️](https://mega.nz/#!8ctC2KwT!7ZYtOeW2Xx8HwFfaomsOoPOq82tsPbe77mYLftW-gb4)
+ - Download IPA file from  [Here ❤️](https://mega.nz/#!tcMnEBzL!Mmfv4yeuWPNYbFcjjDLf-NLrD3bGRe7r5hecYYdgl1Y)
  
- 
+ ### Version "الأصدار" 👇
+- F7k For Jodel ---> **v1.1**
+
  
  **Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)**
 
