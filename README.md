@@ -1,7 +1,7 @@
-## **Jodel++**
+## **F7K For Jodel**
 ###### Updated On 2017/9/6
 
-- **Jodel++ Sideloading (No Jailbreak) "بدون جيلبريك"**
+- **F7K For Jodel Sideloading (No Jailbreak) "بدون جيلبريك"**
 
 
 
