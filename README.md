@@ -10,6 +10,7 @@
  
  ### Version "الأصدار" 👇
 - F7k For Jodel ---> **v1.2**
+- Jodel ---> **v3.72**
 
  
  **Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)**
