@@ -5,10 +5,10 @@
 
 
 
-###  Download Link "رابط التحميل" 👇
- - Download IPA file from  [Here ❤️](https://mega.nz/#!LN1kxKwJ!EM-oSxvhb14Qksh0gAYYw9sTA7-FdcY-zFbGvkPtRgw)
+###  Download Link "رابط التحميل" 
+ - Download IPA file from  [Here ](https://mega.nz/#!LN1kxKwJ!EM-oSxvhb14Qksh0gAYYw9sTA7-FdcY-zFbGvkPtRgw)
  
- ### Version "الأصدار" 👇
+ ### Version "الأصدار" 
 - F7k For Jodel ---> **v1.4**
 - Jodel ---> **v3.84**
 
