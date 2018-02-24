@@ -1,16 +1,16 @@
 ## **F7K For Jodel**
-###### Updated On 2018/2/3
+###### Updated On 2018/2/24
 
 - **F7K For Jodel Sideloading (No Jailbreak) "بدون جيلبريك"**
 
 
 
 ###  Download Link "رابط التحميل" 
- - Download IPA file from  [Here ](https://mega.nz/#!kIUDRJQB!vW1Q2Rj3di-dIq5vjhDf1XopBeagYXTz4MqDvOAVrok)
+ - Download IPA file from  [Here ](https://mega.nz/#!KMthFBBC!JH84tNvQROCMMGyBWta1xYJUKxBocJcXoGIDjBPp0sw)
  
  ### Version "الأصدار" 
 - F7k For Jodel ---> **v1.5**
-- Jodel ---> **v3.91**
+- Jodel ---> **v3.94**
 
  
  **Donate via paypal "دعم وتبرع" > [Paypal](https://www.paypal.me/Spoofsnap)**
